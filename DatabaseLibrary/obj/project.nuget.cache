@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "56UQ7k7AnAW40d2MsSkhL2+0LKKpVTJc2kTJgBHcxXkSogvUM6xmfIp10MYuv7sdWZnwgJNeQcvhgGGtrwKOpw==",
+  "dgSpecHash": "VtliZ2nEW/XFfUH5l271o2AC2iriCTE56YS2EKTMztcGYp4qtHo7P3yXbhkz/wTOABM4M/vfajn+V2XGdBe5bg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\FinalWork1101-master\\DatabaseLibrary\\DatabaseLibrary.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\WinterExam\\DatabaseLibrary\\DatabaseLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
